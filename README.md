@@ -17,7 +17,7 @@ Programs are organized by continent and listed alphabetically within each region
 
 ## Mentorship Programs
 
-## North America
+### North America
 
 | Program Name | Deadline | Comment |
 |-------------|----------|---------|
@@ -41,7 +41,7 @@ Programs are organized by continent and listed alphabetically within each region
 
 ---
 
-## Europe
+### Europe
 
 | Program Name | Deadline | Comment |
 |-------------|----------|---------|
@@ -58,7 +58,7 @@ Programs are organized by continent and listed alphabetically within each region
 
 ---
 
-## Asia
+### Asia
 
 | Program Name | Deadline | Comment |
 |-------------|----------|---------|
