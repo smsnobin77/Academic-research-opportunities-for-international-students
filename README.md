@@ -11,6 +11,9 @@ Programs are organized by continent and listed alphabetically within each region
   - [North America](#north-america)
   - [Europe](#europe)
   - [Asia](#asia)
+- [Statement of Purpose Resources](#statement-of-purpose-resources)
+- [Recommendation Letter Resources](#recommendation-letter-resources)
+- [Books & Reading Materials](#books--reading-materials)
 
 ## Mentorship Programs
 
@@ -64,3 +67,20 @@ Programs are organized by continent and listed alphabetically within each region
 | [NUS SoC Summer Research Internship](https://www.comp.nus.edu.sg/programmes/pg/workshops/res-internship/) | Varies | Short-term academic research attachment at National University of Singapore |
 | [NTU Singapore Undergraduate Research Experience on Campus (URECA)](https://www.ntu.edu.sg/education/undergraduate-research-experience-on-campus-(ureca)) | Varies | Research-oriented academic program in computer science and AI at NTU Singapore |
 | [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description) | October / April (two cycles yearly) | 2–6 month research program in Japan; includes stipend, housing, and travel support |
+
+## Statement of Purpose Resources
+
+- [CS PhD Statements of Purpose](https://cs-sop.notion.site/) — Useful collection of successful SOPs from top CS PhD programs. Recommended to focus primarily on statements accepted at highly ranked programs.
+
+## Recommendation Letter Resources
+
+Listed below are some helpful resources on requesting and writing recommendation letters:
+
+- [Advice for Requesting Letters of Recommendation](https://ggg.stanford.edu/advice-recommendations)
+- [Advice to Graduate School Recommendation Letter Writers](https://cs.brown.edu/people/sk/Memos/Grad-School-Recos/)
+- [How to Write a Letter of Recommendation — Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
+- [How to Ask for Letters of Recommendation to PhD Programs — Tadayoshi Kohno](https://medium.com/navigating-academia/how-to-ask-for-letters-of-recommendation-to-phd-programs-d34a062c41f0)
+
+## Books & Reading Materials
+
+- [Applying to Ph.D. Programs in Computer Science — Mor Harchol-Balter (CMU)](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
